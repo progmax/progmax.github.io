@@ -1,0 +1,4 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+  "target": { "namespace": "android_app", "package_name": "app.seekeratlas", "sha256_cert_fingerprints": ["F1:93:7E:44:33:52:D4:D8:6C:58:5D:E9:7B:0D:2F:E3:96:AB:77:A4:25:07:08:6E:94:B9:1A:02:96:71:50:87"] }
+}]
